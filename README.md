@@ -4,4 +4,4 @@ A storage for all of the projects I've worked on in order to practice Python Pro
 
 Here are the exercises:
 
-1. Alarm Tunes: Create a program that will open a browser and play a YouTube video from a list of videos in a text file. The program should accept a command line argument with the time (--hour <hour>, --minute <minute> --<pm/am>)
+1. Alarm Tunes: Create a program that will open a browser and play a YouTube video from a list of videos in a text file. The program should accept a command line argument with the time (--hour, --minute, --am/pm
