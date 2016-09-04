@@ -4,7 +4,7 @@ A storage for all of the projects I've worked on in order to practice Python Pro
 
 Here are the exercises:
 
-1. Reverse string: take a string input, reverse it, then print it out to the user. Note: there are many ways to do this (set() being one of them), but try not to do it that way.
+1. Reverse string: take a string input, reverse it, then print it out to the user.
 
 2. Count Vowels: take a string input and count the number of vowels in the text. We can ignore the cases where 'y' could be a vowel.
 
@@ -14,4 +14,4 @@ Here are the exercises:
 
 5. Quote Tracker: Create a program what will go out and check the current value of a stock
 
-6. Quote Tracker Advanced: Take the original quote tracker program and add to it's functionality by allowing the user to set a time for how often the stock(s) are checked.
+6. Quote Tracker Advanced: Take the original quote tracker program and add to it's functionality by allowing the user to set a time for how often the stock(s) are checked. Bonus: add a pop up alert or sound notification.
